@@ -16,9 +16,8 @@ python install -r requirements.txt
 
 ## Running
 
-```# Putting the images into input folder
-
+```
+# Putting the images into input folder
 # Running the main.py
 python main.py
-
 ```
