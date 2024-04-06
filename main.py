@@ -19,7 +19,6 @@ def trim_transparent(img):
     result = img.crop(img.getbbox())
     return result
 
-
 def main(): 
     input_folder = "input"
     output_folder = "output"
