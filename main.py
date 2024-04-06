@@ -1,5 +1,4 @@
 from PIL import Image
-from typing import Dict
 import os
 from rembg import remove
 
